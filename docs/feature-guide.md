@@ -1,9 +1,9 @@
 # Smart Apps Features
   
 
-## Key Forge 
+## Key Generation
 
-Upon requesting a subscription for any product, users receive a unique key that simplifies access and management of their purchased applications. This key ensures a secure and personalized experience, allowing users to easily activate and use their subscriptions. 
+The Application Key streamlines access management for subscribed Smart Products by ensuring a secure and efficient connection across various client applications, including AuTest, RF++, and Moca Client. This key plays a critical role in maintaining robust security and seamless integration during the connection process
 
 Following are the steps for key generation:
 - After logging into the website, the first step is to navigate to your profile section.
